@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-23T19:36:58 IST" name="Default suite" finished-at="2024-08-23T19:37:14 IST" duration-ms="16014">
+    <groups>
+    </groups>
+    <test started-at="2024-08-23T19:36:58 IST" name="Default test" finished-at="2024-08-23T19:37:14 IST" duration-ms="16014">
+      <class name="test.Verishoplogintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Verishoplogintest@689604d9]" started-at="2024-08-23T19:36:58 IST" name="setup" finished-at="2024-08-23T19:37:00 IST" duration-ms="1800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="url()[pri:0, instance:test.Verishoplogintest@689604d9]" started-at="2024-08-23T19:37:00 IST" name="url" finished-at="2024-08-23T19:37:02 IST" duration-ms="2219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="logintest()[pri:0, instance:test.Verishoplogintest@689604d9]" started-at="2024-08-23T19:37:02 IST" name="logintest" finished-at="2024-08-23T19:37:05 IST" duration-ms="3034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="url()[pri:0, instance:test.Verishoplogintest@689604d9]" started-at="2024-08-23T19:37:05 IST" name="url" finished-at="2024-08-23T19:37:06 IST" duration-ms="553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="signuptest()[pri:0, instance:test.Verishoplogintest@689604d9]" started-at="2024-08-23T19:37:06 IST" name="signuptest" finished-at="2024-08-23T19:37:14 IST" duration-ms="8359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signuptest -->
+      </class> <!-- test.Verishoplogintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
